@@ -1,1 +1,1 @@
-This app was created with the intention of providing an easier solution for everyday mundane tasks for individuals with impairments. Therefore, this digital gracery list provides Voice-to-Text and Text-to-Voice accessibilites for ease of use
+This app was created with the intention of providing an easier solution for everyday mundane tasks for individuals with impairments. Therefore, this digital gracery list provides Voice-to-Text and Text-to-Speech accessibilites for ease of use
